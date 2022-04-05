@@ -1,3 +1,9 @@
+<style>
+  img {
+    margin: 60px;
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Katta chaithanya kumar</h1>
 <h3 align="center">A passionate game developer | frontend developer | CSE student from India</h3>
 
