@@ -1,5 +1,5 @@
 # Glad to see you here!
-I’ma passionate game developer, frontend developer, and computer science engineering student from India. Currently, I'm diving into the exciting world of Full Stack Web Development, eager to expand my skill set and create amazing web experiences.
+I’m a passionate game developer, frontend developer, and computer science engineering student from India. Currently, I'm diving into the exciting world of Full Stack Web Development, eager to expand my skill set and create amazing web experiences.
 
 I love collaborating with others and would be thrilled to work together on Java projects and game jams, as they bring out the best in my creativity and problem-solving abilities. If you're interested in game development or need any assistance with game jams, don't hesitate to reach out; I'm always here to help!
 
